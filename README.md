@@ -78,15 +78,6 @@ AI-assisted tools were used as a development assistant for:
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/username/library-management-system.git
-
----
-
 ## Engineering Practices
 
 - Object-Oriented Design
@@ -95,3 +86,12 @@ git clone https://github.com/username/library-management-system.git
 - AI-assisted debugging workflow
 - Incremental refactoring
 - Version control with Git
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/username/library-management-system.git
