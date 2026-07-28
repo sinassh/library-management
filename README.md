@@ -85,6 +85,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/username/library-management-system.git
 
+---
+
 ## Engineering Practices
 
 - Object-Oriented Design
