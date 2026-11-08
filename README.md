@@ -94,4 +94,4 @@ AI-assisted tools were used as a development assistant for:
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/library-management-system.git
+git clone https://github.com/sinassh/library-management-system.git
